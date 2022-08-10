@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #FFEDD5; /* hex: 0-F */
+    background-color: #000000; /* hex: 0-F */
     font-family: 'Roboto', sans-serif;
 }
   
@@ -17,7 +17,7 @@ ul {
 h1, h2, h3, .price {
     font-family: 'Roboto Serif', serif;
     text-transform: uppercase;
-    color: #2D2C2A;
+    color: #FFEDD5;
 }
 
 /* CONTAINER */
@@ -69,6 +69,7 @@ section h2 {
   
     margin-bottom: 24px;
     font-size: 18px;
+    color: #2D2C2A;
 }
   
 /* LISTA */
