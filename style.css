@@ -24,7 +24,7 @@ h1, h2, h3, .price {
 .container {
     background-image: url("https://images.unsplash.com/photo-1610632380989-680fe40816c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
     background-repeat: no-repeat;
-    background-position: center 0;
+    background-position: center bottom;
     background-attachment: fixed;
 }
   
