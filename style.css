@@ -54,7 +54,8 @@ header p {
     font-size: 14px;
     line-height: 16px;
   
-    color: rgba(0, 0, 0, 0.7);
+    /*color: rgba(0, 0, 0, 0.7);*/
+    color: #FFFFFF;
 }  
   
 /* SECTION */
@@ -90,7 +91,8 @@ li .details {
 }
 
 .details p {
-    color: rgba(0, 0, 0, 0.6);
+    /*color: rgba(0, 0, 0, 0.6);*/
+    color: #FFFFFF;
     font-size: 14px;
     line-height: 21px;
 }
