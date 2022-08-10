@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+  }  
+
 body {
     background-color: #000000; /* hex: 0-F */
     font-family: 'Roboto', sans-serif;
